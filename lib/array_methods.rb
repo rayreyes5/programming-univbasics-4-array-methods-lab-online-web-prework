@@ -20,4 +20,4 @@ end array.last
 
 def using_size(array)
 
-end 
+end array.size

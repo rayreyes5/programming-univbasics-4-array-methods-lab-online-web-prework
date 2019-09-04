@@ -12,11 +12,11 @@ end array.reverse
 
 def using_first(array)
 
-end 
+end array.reverse
 
 def using_last(array)
 
-end
+end 
 
 def using_size(array)
 

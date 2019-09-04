@@ -4,7 +4,7 @@ end array.include?(element)
 
 def using_sort(array)
 
-end
+end array.sort(element)
 
 def using_reverse(array)
 

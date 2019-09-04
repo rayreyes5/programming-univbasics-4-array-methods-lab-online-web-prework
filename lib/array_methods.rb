@@ -8,11 +8,11 @@ end array.sort(element)
 
 def using_reverse(array)
 
-end array.
+end array.reverse
 
 def using_first(array)
 
-end
+end 
 
 def using_last(array)
 
